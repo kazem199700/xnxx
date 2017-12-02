@@ -21,11 +21,11 @@ redis-server
 ```
 ◈￤  اتركه مفتوح وافتح ترمنال ثاني وخلي
 ```sh
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/kazem199700/xnxx
 ```
 ◈￤  وراها هاي
 ```sh
-cd TH3BOSS
+cd xnxx
 ```
 ◈￤  وراها هاي 
 ```sh
